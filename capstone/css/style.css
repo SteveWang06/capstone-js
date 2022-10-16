@@ -1,0 +1,21 @@
+.menu{
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.item{
+    border: 4px solid orange;
+}
+.buy button{
+    background-color: aqua;
+    border-radius: 20px;
+    border: none;
+    width: 80%;
+    height: 30px;
+    margin-bottom: 20px;
+    margin-left: 10%;
+}
+
+.buy button:hover{
+    background-color: orange;
+}
